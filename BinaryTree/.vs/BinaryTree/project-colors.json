@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b513a2ad-782e-4512-ad36-a53e9e500155": {
+      "ProjectGuid": "b513a2ad-782e-4512-ad36-a53e9e500155",
+      "DisplayName": "BinaryTree",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
